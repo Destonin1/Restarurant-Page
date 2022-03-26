@@ -1,3 +1,4 @@
+import borsh from '../img/borsh.jpg'
 import pasta from '../img/dish1.png'
 import spaget from '../img/dish2.png'
 import pizza1 from '../img/dish3.png'
@@ -14,7 +15,7 @@ let dishes = {}
 dishes.borsh = {
     name: "Borsh",
     price: "50₴",
-    src: "../src/img/borsh.jpg",
+    src: borsh,
     ingr: "Beet, carrot, cabbage, potato tubers, pepper, tomato."
 }
 dishes.spaghetti = {
